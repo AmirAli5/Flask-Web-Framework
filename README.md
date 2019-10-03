@@ -36,5 +36,3 @@ In this Python Flask Tutorial, I learn how to restructure our application to use
 
 ### 12. Custom Error Pages
 In this Python Flask Tutorial, I learn how to create custom error pages. I created new error blueprints from scratch it is easy to add different sections to our application by using blueprints.
-
-#### Credit: Bucky , Corey , Udemy and Udaccity 
