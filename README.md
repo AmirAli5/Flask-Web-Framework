@@ -35,4 +35,6 @@ In this Python Flask Tutorial, I learn how to send emails to reset a user's pass
 In this Python Flask Tutorial, I learn how to restructure our application to use blueprints. Blueprints allow us to split up our application into more manageable sections. I also move our configuration into its own file and create a configuration class. Lastly, I move the creation of our application into its own function. This is called an Application Factory, and it allows us to easily create multiple instances of our app with different configurations.
 
 ### 12. Custom Error Pages
-In this Python Flask Tutorial, I learn how to create custom error pages. I created new error blueprints from scratch it is easy to add different sections to our application by using blueprints. 
+In this Python Flask Tutorial, I learn how to create custom error pages. I created new error blueprints from scratch it is easy to add different sections to our application by using blueprints.
+
+#### Credit: Bucky , Corey , Udemy and Udaccity 
