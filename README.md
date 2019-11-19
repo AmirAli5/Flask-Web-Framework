@@ -1,4 +1,4 @@
-# Python Flask Tutorial
+# Python Flask Tutorials
 Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
 
 ### 1. Getting Started
@@ -19,11 +19,11 @@ In this Python Flask Tutorial, I learn how to restructure our application into a
 ### 6. User Authentication 
 In this Python Flask Tutorial, I learn how to add users to our database. I then create an authentication system so that users can log in and log out of our application. I using the flask-bcrypt and flask-login extensions to help us with this.
 
-### 7. User Account Profile Pic
+### 7. User Account Profile Picture
 In this Python Flask Tutorial, I finishing our user account page so that a user can update their information. I also am adding the ability for a user to upload a profile picture. I learn how we can resize this image so that it doesn't take up much room on our server.
 
 ### 8. Create a Post
-In this Python Flask Tutorial, I learn how to add the ability for users to  create, update, and delete posts. I also learn how we can prevent users from updating posts that don't belong to them.
+In this Python Flask Tutorial, I learn how to add the ability for users to create, update, and delete posts. I also learn how we can prevent users from updating posts that don't belong to them.
 
 ### 9. Pagination
 In this Python Flask Tutorial, I learn how to use pagination within our application. Pagination allows us to only load a select number of items at a time so that our application doesn't get bogged down. I also learn how to display links to different pages at the bottom of our page so users can quickly navigate to the page of their choice.
